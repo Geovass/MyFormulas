@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Formula</string>
+    <string name="version_number">Version 1.0</string>
+    <string name="creator_name">Created by: Geovanni Romero</string>
+    <string name="formula_selection">Choose a formula</string>
+    <string name="num_moles">Moles of the compound</string>
+    <string name="temp_K">Temperature in K</string>
+    <string name="volumen">Gas volume</string>
+    <string name="masa_mol">Mass of the compound</string>
+    <string name="obt_resultado">Calculate</string>
+    <string name="masa_atom">Atomic mass of the compound</string>
+    <string name="valencia">Element valence</string>
+    <string name="error">Is not possible to execute the operation</string>
+    <string name="resultado">Here goes the result</string>
+    <string name="view_resultado">¡The result is %f units!</string>
+</resources>

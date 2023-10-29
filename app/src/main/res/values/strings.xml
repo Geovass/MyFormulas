@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mi Fórmula</string>
+    <string-array name="formulas">
+        <item>Numero de mol en un compuesto</item>
+        <item>Presion ejercida por un gas</item>
+        <item>Masa equivalente de un elemento</item>
+    </string-array>
+
+    <string name="version_number">Version 1.0</string>
+    <string name="creator_name">Creado por: Geovanni Romero</string>
+    <string name="formula_selection">Elige una formula</string>
+    <string name="num_moles">Moles del compuesto</string>
+    <string name="masa_mol">Masa del compuesto</string>
+    <string name="masa_atom">Masa atomica del compuesto</string>
+    <string name="valencia">Valencia del elemento</string>
+    <string name="temp_K">Temperatura en Kelvin</string>
+    <string name="volumen">Volumen del gas</string>
+    <string name="obt_resultado">Calcular</string>
+    <string name="view_resultado">¡El resultado es %.4f unidades!</string>
+    <string name="error">Error: ¡Division entre cero!</string>
+    <string name="resultado">Aqui va el resultado</string>  
+
+</resources>
